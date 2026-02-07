@@ -1,6 +1,6 @@
-public class Program1_6 
+public class Program1_5
 {
-    public static void main(String[] args) 
+    public static void main(String args[]) 
     {
         double num1 = Double.parseDouble(args[0]);
         double num2 = Double.parseDouble(args[1]);
