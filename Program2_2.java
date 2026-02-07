@@ -2,8 +2,8 @@ import java.util.*;
 
 class Employee 
 {
-    private String employeeName;
-    private double employeeSalary;    
+    String employeeName;
+    double employeeSalary;    
     void readEmployeeData() 
     {
         Scanner scanner = new Scanner(System.in);
