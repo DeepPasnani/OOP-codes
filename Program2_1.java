@@ -24,7 +24,7 @@ class Rectangle
 
 public class Program2_1 
 {
-    public static void main(String[] args) 
+    public static void main(String args[]) 
     {
         Rectangle r1 = new Rectangle();
         System.out.println("Rectangle using No-Argument Constructor: ");
