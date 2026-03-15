@@ -1,4 +1,5 @@
-class BankAccount {
+class BankAccount 
+{
     private String accountNumber;
     private String accountHolderName;
     private double balance;
