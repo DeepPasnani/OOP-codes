@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": {
+    "include": [
+      "/usr/share/openjfx/lib/*.jar"
+    ]
+  }
+}
